@@ -1,0 +1,1554 @@
+fileFormatVersion: 2
+guid: 0c47b1407457e754183de5c7e7a489c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HumanCharacterFixed_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077af6e1a7abbc34fbce9201d63ea382
+      internalID: 171927604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa3316652f97064eb02588a64615daa
+      internalID: -351674503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a68bb1dcbeb3542b5fb61ce4ae9994
+      internalID: -1161787861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65d0ca648136f4288168eff298e808
+      internalID: -1335529377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509188c8d473ae44393507b6eabe33a1
+      internalID: -739981459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_5
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b817816ecf715a458e6b392be3a1e2b
+      internalID: 504471092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14065dd48db63654d86f7514511264d0
+      internalID: -1938604679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_7
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbdcac5a81ae0a469af303265ac1058
+      internalID: -1376101885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_8
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce420c29ffdfd9047a2a106831972f37
+      internalID: 1459221267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_9
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a5770b91511b418f4b920e5c7dcb2
+      internalID: -624200129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_10
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b048c591c87738449847985d814f3d31
+      internalID: 1776242382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_11
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe28ccc3086814498ee7289f40b47c
+      internalID: -119487281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_12
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1816
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be00f4e381b5ef641911ead9b9316f3b
+      internalID: 184287689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8679fe7d5890e0540ad5fc4936a14c4a
+      internalID: -1204133290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_14
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611285a4d72f884dbe0c8e69dd3b1e9
+      internalID: -462974227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf20783ea14b244a9b92b53621919c4
+      internalID: 977840468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc53efca2c65dc49ada56a01bf1cd7b
+      internalID: 1131793413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_17
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b4cab8589c9614bb46f937f6156709
+      internalID: 1922749595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_18
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad307b75c1b2bbe4196823f1e75d9767
+      internalID: 1876915205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_19
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78428cea45d2dec46b58970162a622af
+      internalID: -386218025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_20
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cbe2c21128564aa977b53f74d9de7
+      internalID: 695847245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_21
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17016af2904e5cd4cbccb9770d384308
+      internalID: -746442776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d0a5839a682f449d6a9804f2a15ac
+      internalID: -1264651321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5686f6aa5fe9c48992e8d0dca64c05
+      internalID: 1014423033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_24
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c040cf725911eb74f99ea6143bb3be86
+      internalID: 1149778641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_25
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1584
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43766ae93d7c0c54fb2ac2e31ec1ae3c
+      internalID: -515403195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac739d79b3ba0478ed31d56e7d6a30
+      internalID: -742587143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d97a58728a948428aa393fb563ed26
+      internalID: 959673056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb631b2be96b86640a7a8572cc004095
+      internalID: -1194747611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fdf9d29d994c4b9642da8106bbb61
+      internalID: -426723559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_30
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc20ecd5265779046a9a6ce733f34be5
+      internalID: -650246916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_31
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573614c5dd82b140a52560d023cabf8
+      internalID: -1422451120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_32
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a71f53675135448b53ccb0aeb02854
+      internalID: 1072166840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_33
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60fdacbdb5b1984287d80c3492c1eec
+      internalID: 1113069577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_34
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3853e68706720642b7c85b026bc065c
+      internalID: -1098668047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_35
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9eafaaa4acc484cae3073ba9567cb2
+      internalID: -1427000772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_36
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f3cd569636bdc4ebed974b5ac4d3dd
+      internalID: -1064128670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_37
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a288e1f94a9bcbd4b8b4ea273a60b6ef
+      internalID: 512666018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_38
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1352
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ceeda47540d2c469948676f8dc17cb
+      internalID: 1027989043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6915a0df4a68e840948a70f2c6eeafe
+      internalID: 487253060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866292fdbfdfa24aa02fb6c1d610b9d
+      internalID: -678643449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_41
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c77519d3eb9a443b204c5bc9a43c4f
+      internalID: -645338536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0c2f5fcec0404a8485fb859642724
+      internalID: 282829229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_43
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e6c566c13eaf4ab424f65bfd1edbc
+      internalID: -1606898931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_44
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a560fbb5df4e2a442ab62d92b949727a
+      internalID: 1781828246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_45
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c29111787e410e42be645994b781f1d
+      internalID: -1200763812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_46
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfc6703ca03f3b4d9b31d237c341363
+      internalID: -61604938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_47
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ababb879c01b24ca843bf165abe9ec
+      internalID: 560261638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_48
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c36fa5f75a58c4db26e82471a82f30
+      internalID: -236590568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_49
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c698cbf33ae3c45b0419dec90197e5
+      internalID: 518810498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_50
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6378930dbe6049bf0b869a48104ea
+      internalID: 332613011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_51
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1120
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a730a154d4ed4389fd8f42ab84e08
+      internalID: 173206398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee93c86cff23d645ad0db75221819db
+      internalID: 1326329283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f0df97ff051184ebf1aef32851ea4f
+      internalID: 793588274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e1cd714680ef24ab93de2a2d7bc20b
+      internalID: -1289129463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_55
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d37609e6bd313b4cac4531005649a62
+      internalID: 1494099709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_56
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326154096b026514080a962ce6c4c039
+      internalID: -1928736777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_57
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152463ea7cf86bb4a8477ab17b59a3ab
+      internalID: 2093360527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_58
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a889a7054e3e7346a78cc29ecf86716
+      internalID: -768072572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_59
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea56fea6ed9be4443957c843787223b2
+      internalID: -1177716552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_60
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cc0f3f9ed539841adbfe8615664073
+      internalID: -2038621759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_61
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571ee8b052437048ae0877ab48cad94
+      internalID: -2006481971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_62
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6736042f06680d42a68b5d8cd1592c4
+      internalID: -1754779161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanCharacterFixed_63
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 888
+        width: 157
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213b10ef39f2dae4fb2e76e23cf8c9ee
+      internalID: -339703407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HumanCharacterFixed_36: -1064128670
+      HumanCharacterFixed_49: 518810498
+      HumanCharacterFixed_13: -1204133290
+      HumanCharacterFixed_12: 184287689
+      HumanCharacterFixed_38: 1027989043
+      HumanCharacterFixed_31: -1422451120
+      HumanCharacterFixed_25: -515403195
+      HumanCharacterFixed_11: -119487281
+      HumanCharacterFixed_21: -746442776
+      HumanCharacterFixed_29: -426723559
+      HumanCharacterFixed_61: -2006481971
+      HumanCharacterFixed_9: -624200129
+      HumanCharacterFixed_2: -1161787861
+      HumanCharacterFixed_55: 1494099709
+      HumanCharacterFixed_35: -1427000772
+      HumanCharacterFixed_48: -236590568
+      HumanCharacterFixed_41: -645338536
+      HumanCharacterFixed_43: -1606898931
+      HumanCharacterFixed_1: -351674503
+      HumanCharacterFixed_17: 1922749595
+      HumanCharacterFixed_30: -650246916
+      HumanCharacterFixed_23: 1014423033
+      HumanCharacterFixed_15: 977840468
+      HumanCharacterFixed_62: -1754779161
+      HumanCharacterFixed_28: -1194747611
+      HumanCharacterFixed_10: 1776242382
+      HumanCharacterFixed_57: 2093360527
+      HumanCharacterFixed_33: 1113069577
+      HumanCharacterFixed_26: -742587143
+      HumanCharacterFixed_47: 560261638
+      HumanCharacterFixed_27: 959673056
+      HumanCharacterFixed_37: 512666018
+      HumanCharacterFixed_53: 793588274
+      HumanCharacterFixed_58: -768072572
+      HumanCharacterFixed_4: -739981459
+      HumanCharacterFixed_8: 1459221267
+      HumanCharacterFixed_19: -386218025
+      HumanCharacterFixed_54: -1289129463
+      HumanCharacterFixed_56: -1928736777
+      HumanCharacterFixed_60: -2038621759
+      HumanCharacterFixed_59: -1177716552
+      HumanCharacterFixed_7: -1376101885
+      HumanCharacterFixed_42: 282829229
+      HumanCharacterFixed_16: 1131793413
+      HumanCharacterFixed_18: 1876915205
+      HumanCharacterFixed_40: -678643449
+      HumanCharacterFixed_39: 487253060
+      HumanCharacterFixed_44: 1781828246
+      HumanCharacterFixed_51: 173206398
+      HumanCharacterFixed_63: -339703407
+      HumanCharacterFixed_46: -61604938
+      HumanCharacterFixed_52: 1326329283
+      HumanCharacterFixed_6: -1938604679
+      HumanCharacterFixed_14: -462974227
+      HumanCharacterFixed_24: 1149778641
+      HumanCharacterFixed_45: -1200763812
+      HumanCharacterFixed_3: -1335529377
+      HumanCharacterFixed_5: 504471092
+      HumanCharacterFixed_22: -1264651321
+      HumanCharacterFixed_34: -1098668047
+      HumanCharacterFixed_50: 332613011
+      HumanCharacterFixed_20: 695847245
+      HumanCharacterFixed_32: 1072166840
+      HumanCharacterFixed_0: 171927604
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
